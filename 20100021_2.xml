@@ -1,0 +1,1177 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific"
+    xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer"
+    xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=StatCan:DF_20100021(1.0):ObsLevelDim:TIME_PERIOD"
+    xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message"
+    xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xml="http://www.w3.org/XML/1998/namespace">
+    <message:Header>
+        <message:ID>DS1595563807789</message:ID>
+        <message:Test>false</message:Test>
+        <message:Prepared>2020-07-24T04:10:07</message:Prepared>
+        <message:Sender id="MetadataTechnology"/>
+        <message:Structure structureID="StatCan_DF_20100021_1_0" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=StatCan:DF_20100021(1.0):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
+            <common:StructureUsage>
+                <Ref agencyID="StatCan" id="DF_20100021" version="1.0"/>
+            </common:StructureUsage>
+        </message:Structure>
+    </message:Header>
+    <message:DataSet ss:dataScope="DataStructure" xsi:type="ns1:DataSetType" ss:structureRef="StatCan_DF_20100021_1_0">
+        <Series Geography="1" Fuel_Type="1" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014832" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1892001"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="1" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014839" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="487261"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="1" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014846" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="393556"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="1" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014853" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="906039"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="1" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014860" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="105145"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="2" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014833" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1747111"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="2" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014840" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="430513"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="2" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014847" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="343843"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="2" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014854" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="874011"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="2" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014861" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="98744"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="3" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014834" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="58356"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="3" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014841" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="392"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="3" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014848" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="49713"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="3" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014855" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="2520"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="3" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014862" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="5731"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="4" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014835" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="31054"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="4" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014842" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="24656"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="4" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014849" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="4" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014856" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="6398"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="4" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014863" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="5" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014836" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="35392"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="5" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014843" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="18453"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="5" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014850" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="5" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014857" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="16939"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="5" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014864" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="6" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014837" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="19908"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="6" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014844" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="13179"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="6" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014851" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="6" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014858" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="6164"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="6" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014865" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="565"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="7" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014838" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="180"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="7" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014845" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="68"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="7" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014852" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="7" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014859" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="7"/>
+        </Series>
+        <Series Geography="1" Fuel_Type="7" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014866" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000011124" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="105"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="1" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014867" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="1" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014874" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="1" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014881" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="1" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014888" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="1" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014895" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="2" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014868" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="2" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014875" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="2" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014882" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="2" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014889" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="2" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014896" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="3" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014869" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="3" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014876" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="3" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014883" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="3" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014890" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="3" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014897" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="4" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014870" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="4" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014877" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="4" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014884" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="4" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014891" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="4" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014898" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="5" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014871" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="5" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014878" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="5" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014885" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="5" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014892" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="5" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014899" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="6" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014872" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="6" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014879" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="6" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014886" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="6" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014893" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="6" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014900" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="7" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014873" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="7" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014880" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="7" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014887" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="7" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014894" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="2" Fuel_Type="7" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014901" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000210" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="1" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014902" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="7619"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="1" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014909" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1908"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="1" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014916" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1843"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="1" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014923" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="3513"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="1" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014930" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="355"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="2" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014903" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="7294"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="2" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014910" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1786"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="2" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014917" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1712"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="2" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014924" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="3450"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="2" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014931" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="346"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="3" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014904" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="140"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="3" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014911" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="3" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014918" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="131"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="3" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014925" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="3" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014932" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="9"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="4" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014905" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="51"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="4" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014912" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="48"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="4" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014919" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="4" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014926" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="3"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="4" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014933" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="5" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014906" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="117"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="5" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014913" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="67"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="5" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014920" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="5" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014927" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="50"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="5" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014934" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="6" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014907" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="17"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="6" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014914" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="7"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="6" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014921" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="6" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014928" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="10"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="6" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014935" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="7" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014908" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="7" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014915" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="7" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014922" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="7" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014929" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="3" Fuel_Type="7" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014936" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000211" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="1" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014937" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="1" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014944" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="1" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014951" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="1" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014958" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="1" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014965" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="2" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014938" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="2" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014945" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="2" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014952" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="2" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014959" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="2" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014966" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="3" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014939" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="3" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014946" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="3" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014953" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="3" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014960" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="3" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014967" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="4" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014940" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="4" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014947" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="4" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014954" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="4" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014961" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="4" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014968" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="5" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014941" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="5" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014948" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="5" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014955" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="5" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014962" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="5" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014969" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="6" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014942" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="6" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014949" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="6" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014956" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="6" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014963" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="6" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014970" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="7" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014943" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="7" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014950" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="7" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014957" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="7" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014964" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="4" Fuel_Type="7" Vehicle_type="5" Statistics="1" VECTOR_ID="1079014971" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000212" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="1" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014972" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="39896"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="1" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014979" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="8995"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="1" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014986" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="10428"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="1" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014993" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="19055"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="1" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015000" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1418"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="2" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014973" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="38334"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="2" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014980" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="8713"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="2" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014987" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="9589"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="2" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014994" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="18661"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="2" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015001" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1371"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="3" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014974" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="905"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="3" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014981" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="6"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="3" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014988" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="839"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="3" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014995" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="13"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="3" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015002" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="47"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="4" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014975" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="69"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="4" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014982" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="51"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="4" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014989" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="4" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014996" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="18"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="4" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015003" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="5" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014976" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="507"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="5" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014983" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="188"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="5" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014990" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="5" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014997" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="319"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="5" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015004" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="6" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014977" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="81"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="6" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014984" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="37"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="6" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014991" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="6" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014998" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="44"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="6" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015005" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="7" Vehicle_type="1" Statistics="1" VECTOR_ID="1079014978" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="7" Vehicle_type="2" Statistics="1" VECTOR_ID="1079014985" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="7" Vehicle_type="3" Statistics="1" VECTOR_ID="1079014992" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="7" Vehicle_type="4" Statistics="1" VECTOR_ID="1079014999" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="5" Fuel_Type="7" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015006" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000213" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="1" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015007" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="455956"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="1" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015014" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="147561"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="1" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015021" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="69741"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="1" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015028" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="215259"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="1" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015035" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="23395"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="2" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015008" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="412604"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="2" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015015" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="124708"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="2" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015022" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="61591"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="2" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015029" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="204654"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="2" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015036" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="21651"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="3" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015009" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="10090"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="3" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015016" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="66"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="3" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015023" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="8150"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="3" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015030" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="392"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="3" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015037" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1482"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="4" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015010" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="13378"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="4" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015017" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="10336"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="4" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015024" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="4" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015031" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="3042"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="4" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015038" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="5" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015011" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="8158"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="5" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015018" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="3956"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="5" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015025" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="5" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015032" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="4202"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="5" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015039" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="6" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015012" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="11659"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="6" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015019" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="8443"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="6" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015026" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="6" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015033" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="2969"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="6" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015040" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="247"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="7" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015013" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="67"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="7" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015020" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="52"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="7" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015027" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="7" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015034" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="6" Fuel_Type="7" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015041" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000224" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="15"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="1" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015042" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="770617"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="1" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015049" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="198915"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="1" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015056" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="142073"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="1" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015063" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="380956"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="1" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015070" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="48673"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="2" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015043" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="732029"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="2" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015050" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="185273"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="2" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015057" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="128932"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="2" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015064" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="371767"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="2" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015071" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="46057"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="3" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015044" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="16927"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="3" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015051" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="156"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="3" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015058" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="13141"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="3" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015065" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1172"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="3" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015072" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="2458"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="4" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015045" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="5502"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="4" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015052" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="4374"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="4" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015059" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="4" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015066" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1128"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="4" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015073" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="5" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015046" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="13160"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="5" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015053" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="7337"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="5" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015060" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="5" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015067" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="5823"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="5" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015074" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="6" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015047" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="2921"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="6" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015054" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1775"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="6" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015061" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="6" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015068" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1066"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="6" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015075" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="80"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="7" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015048" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="78"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="7" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015055" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="7" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015062" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="7" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015069" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="7" Fuel_Type="7" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015076" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000235" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="78"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="1" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015077" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="50393"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="1" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015084" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="9576"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="1" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015091" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="13612"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="1" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015098" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="24481"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="1" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015105" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="2724"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="2" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015078" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="48318"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="2" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015085" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="9141"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="2" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015092" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="12460"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="2" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015099" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="24072"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="2" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015106" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="2645"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="3" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015079" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1264"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="3" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015086" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="12"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="3" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015093" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1152"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="3" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015100" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="31"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="3" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015107" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="69"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="4" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015080" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="138"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="4" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015087" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="113"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="4" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015094" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="4" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015101" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="25"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="4" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015108" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="5" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015081" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="538"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="5" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015088" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="248"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="5" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015095" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="5" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015102" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="290"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="5" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015109" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="6" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015082" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="134"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="6" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015089" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="62"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="6" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015096" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="6" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015103" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="63"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="6" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015110" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="9"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="7" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015083" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="7" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015090" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="7" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015097" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="7" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015104" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="8" Fuel_Type="7" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015111" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000246" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="1" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015112" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="49667"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="1" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015119" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="6315"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="1" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015126" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="18549"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="1" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015133" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="22477"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="1" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015140" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="2326"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="2" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015113" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="46013"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="2" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015120" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="5996"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="2" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015127" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="15613"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="2" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015134" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="22145"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="2" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015141" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="2259"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="3" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015114" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="3102"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="3" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015121" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="26"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="3" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015128" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="2936"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="3" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015135" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="77"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="3" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015142" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="63"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="4" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015115" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="88"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="4" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015122" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="70"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="4" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015129" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="4" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015136" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="18"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="4" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015143" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="5" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015116" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="401"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="5" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015123" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="193"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="5" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015130" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="5" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015137" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="208"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="5" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015144" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="6" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015117" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="63"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="6" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015124" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="30"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="6" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015131" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="6" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015138" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="29"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="6" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015145" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="4"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="7" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015118" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="7" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015125" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="7" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015132" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="7" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015139" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="9" Fuel_Type="7" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015146" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000247" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="1" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015147" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="1" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015154" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="1" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015161" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="1" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015168" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="1" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015175" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="2" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015148" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="2" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015155" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="2" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015162" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="2" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015169" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="2" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015176" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="3" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015149" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="3" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015156" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="3" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015163" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="3" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015170" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="3" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015177" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="4" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015150" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="4" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015157" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="4" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015164" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="4" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015171" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="4" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015178" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="5" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015151" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="5" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015158" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="5" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015165" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="5" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015172" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="5" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015179" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="6" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015152" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="6" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015159" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="6" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015166" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="6" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015173" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="6" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015180" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="7" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015153" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="7" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015160" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="7" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015167" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="7" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015174" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="10" Fuel_Type="7" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015181" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000248" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="NaN" STATUS_CAN="1"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="1" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015182" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="212303"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="1" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015189" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="58514"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="1" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015196" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="44834"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="1" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015203" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="96982"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="1" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015210" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="11973"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="2" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015183" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="178210"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="2" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015190" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="43163"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="2" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015197" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="35781"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="2" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015204" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="88589"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="2" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015211" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="10677"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="3" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015184" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="10755"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="3" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015191" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="61"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="3" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015198" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="9053"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="3" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015205" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="556"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="3" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015212" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1085"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="4" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015185" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="10881"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="4" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015192" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="8866"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="4" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015199" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="4" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015206" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="2015"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="4" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015213" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="5" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015186" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="7959"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="5" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015193" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="3857"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="5" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015200" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="5" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015207" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="4102"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="5" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015214" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="6" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015187" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="4466"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="6" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015194" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="2551"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="6" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015201" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="6" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015208" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="1713"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="6" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015215" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="202"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="7" Vehicle_type="1" Statistics="1" VECTOR_ID="1079015188" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="32"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="7" Vehicle_type="2" Statistics="1" VECTOR_ID="1079015195" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="16"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="7" Vehicle_type="3" Statistics="1" VECTOR_ID="1079015202" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="0"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="7" Vehicle_type="4" Statistics="1" VECTOR_ID="1079015209" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="7"/>
+        </Series>
+        <Series Geography="11" Fuel_Type="7" Vehicle_type="5" Statistics="1" VECTOR_ID="1079015216" SCALAR_FACTOR="0" NB_DECIMAL="0" DGUID="2016A000259" UOM="300">
+            <Obs TIME_PERIOD="2019" OBS_VALUE="9"/>
+        </Series>
+    </message:DataSet>
+</message:StructureSpecificData>
