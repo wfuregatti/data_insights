@@ -1,7 +1,5 @@
 import xml.dom.minidom
-import time
 
-t0 = time.time()
 def ret_geo(geo):
     sw_geo = {
           '1': "Canada",
@@ -87,8 +85,6 @@ def load():
         print("OBS_VALUE: ", ReturnedValue)
         print("--------")
            
-    t1 = time.time()
-    print("Time spent: ", t1-t0)
     print("Total records: " + str(count))
               
 if __name__ == "__main__":
